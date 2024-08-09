@@ -1,0 +1,7 @@
+"This project is a Django-based system for recommending books." 
+"## Features" 
+"- Displays the top 50 books on the index page." 
+"- Provides personalized book recommendations." 
+"## Setup" 
+"1. Clone the repository." 
+"2. Install dependencies with \`pip install -r requirements.txt\`." 

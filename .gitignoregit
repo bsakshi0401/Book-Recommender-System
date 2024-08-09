@@ -1,1 +1,1 @@
-".idea/"  add .gitignore
+"*.log"  add README.md .gitignore
